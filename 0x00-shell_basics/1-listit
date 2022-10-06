@@ -1,3 +1,2 @@
 #!/bin/bash
-0-current_workin_directory
-1-lisit
+ls
