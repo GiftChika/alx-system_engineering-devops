@@ -1,1 +1,2 @@
-VimCrypt~03!^Δds«όi½x	? ‰ÿ©VsΞP„ΨKZΥβp–-«Z|ήοiiNΚt,Uƒcαδρ]Ηkabz</‰
+#!/bin/bash
+find . -name "*.js" -type f -delete
