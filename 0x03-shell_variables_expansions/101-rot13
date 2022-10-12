@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Every one is a proponent of strong encryption' | tr '[N-Mn-m]' '[A-Mn-Za-mn-z]'
+tr '[a-z][A-Z] '[n-za-m][N-ZA-M]
